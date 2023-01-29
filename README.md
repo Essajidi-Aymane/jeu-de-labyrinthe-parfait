@@ -56,7 +56,6 @@ Depuis la racine du projet:
 - Essajidi Aymane  
 - Elfakhouri Yasser 
 - Zeggane Yathmas 
-- Bennine Ismail 
 ```
 
 # Sujet
